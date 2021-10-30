@@ -1,0 +1,7 @@
+What do we need?
+
+- FrontEnd
+- API
+- Database
+- Business Logic
+- Real time Updates

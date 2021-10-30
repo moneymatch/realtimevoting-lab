@@ -1,0 +1,5 @@
+type Candidate @model {
+  id: ID!
+  name: String!
+  votes: Int!
+}
